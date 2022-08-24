@@ -1,0 +1,83 @@
+{
+	"0" : 
+	{
+		"Company" : "Apple",
+		"CompanyID" : 0,
+		"Discount" : 0.0,
+		"Price" : 1599.0,
+		"Product" : "iPhone 13 Pro Max",
+		"ProductID" : 1
+	},
+	"1" : 
+	{
+		"Company" : "Suraj",
+		"CompanyID" : 1,
+		"Discount" : 5.0,
+		"Price" : 3.75,
+		"Product" : "Ginger Garlic Paste",
+		"ProductID" : 2
+	},
+	"2" : 
+	{
+		"Company" : "Samsung",
+		"CompanyID" : 2,
+		"Discount" : 10.0,
+		"Price" : 1499.0,
+		"Product" : "Galaxy S22 Ultra",
+		"ProductID" : 3
+	},
+	"3" : 
+	{
+		"Company" : "GT",
+		"CompanyID" : 3,
+		"Discount" : 15.0,
+		"Price" : 610.0,
+		"Product" : "Aggressor Pro 27.5\"",
+		"ProductID" : 4
+	},
+	"4" : 
+	{
+		"Company" : "Casio",
+		"CompanyID" : 4,
+		"Discount" : 25.0,
+		"Price" : 75.0,
+		"Product" : "fx-991 EX",
+		"ProductID" : 5
+	},
+	"5" : 
+	{
+		"Company" : "NVIDIA",
+		"CompanyID" : 5,
+		"Discount" : 2.0,
+		"Price" : 3000.0,
+		"Product" : "GeForce RTX 3080Ti",
+		"ProductID" : 6
+	},
+	"6" : 
+	{
+		"Company" : "Honda",
+		"CompanyID" : 6,
+		"Discount" : 10.0,
+		"Price" : 3949.0,
+		"Product" : "Grom 2020 (ABS)",
+		"ProductID" : 8
+	},
+	"7" : 
+	{
+		"Company" : "Great Value",
+		"CompanyID" : 7,
+		"Discount" : 5.0,
+		"Price" : 3.9900000095367432,
+		"Product" : "Lime Juice 310ml",
+		"ProductID" : 9
+	},
+	"8" : 
+	{
+		"Company" : "Everest",
+		"CompanyID" : 8,
+		"Discount" : 10.0,
+		"Price" : 20.0,
+		"Product" : "Pani Puri 200mg",
+		"ProductID" : 20
+	}
+}
